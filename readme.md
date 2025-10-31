@@ -74,8 +74,8 @@ cd mist-campus-fabric-evpn-mh
 
 0. Change values in excel spread sheet
 1. Create an API token on your Mist Org
-2. Copy API token and ORG-ID to the script
-3. Run the script.
+2. Copy API token and ORG-ID to the script mist-campus-fabric-evpn-mh.py
+3. Run mist-campus-fabric-evpn-mh.py
 
 ## Contributing
 
