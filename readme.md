@@ -1,4 +1,4 @@
-# EVPN Multihoming Fabric Builder
+# Juniper Mist - EVPN Multihoming Fabric Builder
 
 **Version:** 0.1  
 **Author:** Lukas Eisenberger (leisenberger@juniper.net)
