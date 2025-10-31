@@ -81,7 +81,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 ## License
 
-(Add your license information here, e.g., MIT, Apache 2.0, etc.)
+- **MIT**
 
 ## Support
 
