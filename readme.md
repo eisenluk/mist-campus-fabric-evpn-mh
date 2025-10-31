@@ -95,5 +95,5 @@ This tool is provided as-is without any warranties. Always validate generated co
 
 ---
 
-*Last updated: [Date]*  
+*Last updated: [31.10.2025]*  
 *Version: 0.1*
