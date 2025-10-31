@@ -59,10 +59,10 @@ This version focuses on **EVPN multihoming** for collapsed-core or distribution 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/evpn-multihoming-builder.git
+git clone https://github.com/eisenluk/mist-campus-fabric-evpn-mh.git
 
 # Navigate to the directory
-cd evpn-multihoming-builder
+cd mist-campus-fabric-evpn-mh
 
 # Install dependencies
 # pip install -r requirements.txt
